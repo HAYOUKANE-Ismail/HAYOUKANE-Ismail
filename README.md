@@ -1,4 +1,12 @@
-<div align="center"> <!-- Matrix-style header --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=150&lines=Welcome+to+my+profile!;Software+Engineering+%7C+Cloud+Computing+%7C+Networking" alt="Typing SVG" /> </a> <!-- Digital Rain Effect using SVG --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:20092B&height=2&section=header" width="100%" /> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Ismail%20Hayoukane&fontSize=30&fontColor=9745F5&animation=twinkling&desc=Computer%20Engineering%20Student&descSize=20&descAlignY=75&descColor=6F4B9E" width="100%" /> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20092B,100:000000&height=2&section=header" width="100%" /> <br> <div align="center"> <a href="https://www.linkedin.com/in/ismail-hayoukane-34322a263/"><img src="https://img.shields.io/badge/LinkedIn-9745F5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="mailto:ismail.hayoukane.pro@gmail.com"><img src="https://img.shields.io/badge/Email-6F4B9E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp; <a href="https://github.com/HAYOUKANE-Ismail"><img src="https://img.shields.io/badge/GitHub-4A3B66?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cloud+Computing+Specialist;Networking+Specialist;Technology+Innovator" alt="Typing SVG" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ccff,100:33ccff&height=300&section=header&text=Ismail%20Hayoukane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Cloud%20Computing%20%7C%20Networking&descAlignY=60&descSize=22" width="100%" /> <div align="center"> <a href="https://www.linkedin.com/in/ismail-hayoukane-34322a263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="mailto:ismail.hayoukane.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp; <a href="https://github.com/HAYOUKANE-Ismail"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0066ff&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cloud+Computing+Specialist;Networking+Specialist;Technology+Innovator" alt="Typing SVG" /> <!-- Eye-catching showcase section --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=⚡%20TECHNOLOGY%20MASTERY%20⚡&animation=fadeIn&fontColor=ffffff&fontSize=24&height=100" width="100%" />
+<!-- Main Skills Section -->
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CLOUD%20ARCHITECTURE-EXPERT-0066ff?style=for-the-badge&labelColor=black" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/NETWORK%20ENGINEERING-EXPERT-00ccff?style=for-the-badge&labelColor=black" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/SYSTEM%20DESIGN-ADVANCED-33ccff?style=for-the-badge&labelColor=black" /></a>
+</div>
+
+<br>
 
 <!-- Skill Matrix -->
 <table border="0" align="center">
@@ -30,7 +38,37 @@
 
 <br>
 
+<!-- Current Projects Section with Modern Cards -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20CURRENT%20PROJECTS%20🚀&animation=fadeIn&fontColor=ffffff&fontSize=24&height=100" width="100%" />
 
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Cloud%20Native-Solutions-0066ff?style=for-the-badge&labelColor=black" />
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20Kubernetes%20-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20Docker%20-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20Microservices%20-FF4088?style=flat-square&logo=fastify&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Network-Automation-00ccff?style=for-the-badge&labelColor=black" />
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20Python%20-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20Ansible%20-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20Monitoring%20-FFA500?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/AI-Integration-33ccff?style=for-the-badge&labelColor=black" />
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20TensorFlow%20-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20PyTorch%20-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/-%20ML%20Ops%20-16C60C?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</div> </div>
 👨‍💻 About Me
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 🎓 Passionate Computer Engineering student with a strong interest in cloud computing, networking, and innovative technology solutions
