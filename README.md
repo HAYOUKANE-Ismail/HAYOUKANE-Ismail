@@ -38,37 +38,7 @@
 
 <br>
 
-<!-- Current Projects Section with Modern Cards -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20CURRENT%20PROJECTS%20🚀&animation=fadeIn&fontColor=ffffff&fontSize=24&height=100" width="100%" />
 
-<br>
-
-<table border="0" align="center">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Cloud%20Native-Solutions-0066ff?style=for-the-badge&labelColor=black" />
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20Kubernetes%20-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20Docker%20-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20Microservices%20-FF4088?style=flat-square&logo=fastify&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Network-Automation-00ccff?style=for-the-badge&labelColor=black" />
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20Python%20-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20Ansible%20-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20Monitoring%20-FFA500?style=flat-square&logo=grafana&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/AI-Integration-33ccff?style=for-the-badge&labelColor=black" />
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20TensorFlow%20-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20PyTorch%20-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/-%20ML%20Ops%20-16C60C?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-  </tr>
-</table>
-</div> </div>
 👨‍💻 About Me
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 🎓 Passionate Computer Engineering student with a strong interest in cloud computing, networking, and innovative technology solutions
