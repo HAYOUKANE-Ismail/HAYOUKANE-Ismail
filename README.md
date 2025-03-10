@@ -1,66 +1,17 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,50:F4A460,100:8B4513&height=250&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descAlignY=55&descSize=25" width="100%" />
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/ismail-hayoukane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:ismail.hayoukane.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Cloud+Computing+Enthusiast;Networking+Specialist;Technology+Innovator" alt="Typing SVG" />
-</div>
-
-<h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-  <div align="left" style="max-width: 400px;">
-    <p>🎓 Passionate Computer Engineering student with a strong interest in cloud computing, networking, and innovative technology solutions.</p>
-    <p>💡 Bridging the gap between hardware and software to build smart, scalable systems that make a real-world impact.</p>
-    <p>🚀 Exploring cloud architectures, optimizing networks, and developing cutting-edge applications.</p>
-    <p>📚 Currently learning: Advanced DevOps practices & Oracle database administration.</p>
-  </div>
-</div>
-
-<br>
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </p>
-
-  <h3>🌐 Web Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenStack-f01742?style=for-the-badge&logo=openstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  </p>
-
-  <h3>🗄️ Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
-
-  <h3>🔧 Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  </p>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,50:F4A460,100:8B4513&height=150&section=footer" width="100%" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2B48C,100:F4A460&height=300&section=header&text=Ismail%20Hayoukane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Cloud%20Computing%20%7C%20Networking&descAlignY=60&descSize=22" width="100%" /> <div align="center"> <a href="https://www.linkedin.com/in/ismail-hayoukane-34322a263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="mailto:ismail.hayoukane.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp; <a href="https://github.com/ismail-hayoukane"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </div> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Cloud+Computing+Enthusiast;Networking+Specialist;Technology+Innovator" alt="Typing SVG" /> <img src="https://github-readme-stats.vercel.app/api?username=ismail-hayoukane&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-hayoukane&theme=gruvbox&hide_border=true" width="49%" /> </div>
+👨‍💻 About Me
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+🎓 Passionate Computer Engineering student with a strong interest in cloud computing, networking, and innovative technology solutions
+💡 Bridging the gap between hardware and software to build smart, scalable systems that make a real-world impact
+🚀 Exploring cloud architectures, optimizing networks, and developing cutting-edge applications
+📚 Currently learning: Advanced DevOps practices & Oracle database administration
+🌱 Always eager to collaborate on projects that push technological boundaries
+<br clear="right"/>
+🛠️ Tech Stack
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /> <br>C# </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /> <br>C++ </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br>MySQL </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /> <br>Azure </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <br>PostgreSQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br>Linux </td> </tr> </table>
+📊 This Week I Spent My Time On
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ismail_hayoukane&theme=gruvbox&hide_border=true" alt="Wakatime Stats" /> </div>
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ismail-hayoukane&theme=gruvbox&no-frame=true&column=7" alt="Trophy" /> </div>
+📫 How to reach me
+<div align="center"> <a href="https://www.linkedin.com/in/ismail-hayoukane-34322a263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="mailto:ismail.hayoukane.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2B48C,100:F4A460&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" /> </div> <!-- Note: You may need to set up Wakatime for the "This Week I Spent My Time On" section to work. Also, replace "ismail-hayoukane" with your actual GitHub username in all the URLs if it's different. -->
